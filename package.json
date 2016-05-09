@@ -8,8 +8,8 @@
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "pandaduc",
+  "license": "Apache-2.0",
   "devDependencies": {
     "babel-core": "^6.7.4",
     "babel-loader": "^6.2.4",
@@ -29,8 +29,13 @@
   },
   "dependencies": {
     "angular": "^1.5.3",
+    "angular-animate": "^1.5.5",
+    "angular-aria": "^1.5.5",
+    "angular-material": "^1.0.8",
+    "angular-messages": "^1.5.5",
+    "angular-mocks": "^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-sanitize": "^1.5.5",
     "angular-ui-router": "^0.2.18"
-  },
-  "license": "Apache-2.0",
-  "author": "pandaduc"
+  }
 }
